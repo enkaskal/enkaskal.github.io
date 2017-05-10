@@ -8,7 +8,7 @@ keywords: "mustsee movies Star Wars StarWars Film"
 
 #### So we found ourselves compiling a list of must see movies!
 
-Here’s what we came up as a first draft; we welcome comments, suggestions, discussion.
+Here’s what we came up as a first draft...we welcome comments, suggestions, discussion:
 
  * sneakers
  * spy game
