@@ -10,8 +10,6 @@ keywords: "mustsee movies Star Wars StarWars Film"
 
 Here’s what we came up as a first draft...
 
-We welcome comments, suggestions, discussions :)
-
  * sneakers
  * spy game
  * blade runner
