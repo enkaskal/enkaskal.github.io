@@ -12,7 +12,7 @@ repo: http://github.com/enkaskal/enkaskal.github.io
 #disqus_shortname: "hnbloggithub"
 twitter_username: "enkaskal"
 github_username: "enkaskal"
-comments: true
+comments: false
 
 # Build settings
 permalink   : /:year/:title/
