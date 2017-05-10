@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-[@enkaskal link](http://twitter.com/enkaskal) just this guy ya know
+[@enkaskal](http://twitter.com/enkaskal) just this guy ya know
