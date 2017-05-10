@@ -1,4 +1,5 @@
 #Favorite Quotes
+
 What follows is a list of my favorite quotes. It is a living document.
 
 ##From the (original?) IDA Disassembler FAQ:
