@@ -6,7 +6,7 @@ keywords: "Favorite Quotes"
 ---
 #### What follows is a list of my favorite quotes.
 
-__This is a living document.__
+<span style="color:red">_This is a living document._</span>
 
 ## From the (original?) IDA Disassembler FAQ:
 > Q: How do I view the disassembly in C/VB etc?

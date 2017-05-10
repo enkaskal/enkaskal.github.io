@@ -4,7 +4,10 @@ title: "Must See Movies Of All Time"
 description: "It’s intern season again, and found myself compiling a list of must see movies"
 keywords: "mustsee movies Star Wars StarWars Film"
 ---
-#### it’s intern season again and found myself compiling a list of must see movies. here’s what i came up with for my first draft. i welcome comments, suggestions, discussion. ####
+It’s intern season again, and we found ourselves compiling a list of must see movies...
+Here’s what we came up as a first draft.
+
+We welcome comments, suggestions, discussion.
 
  * sneakers
  * spy game
