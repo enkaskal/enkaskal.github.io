@@ -4,7 +4,7 @@ title: "Favorite Quotes"
 description: "What follows is a list of my favorite quotes. It is a living document."
 keywords: "Favorite Quotes"
 ---
-###What follows is a list of my favorite quotes. 
+### What follows is a list of my favorite quotes.
 
 **__This is a living document.__**
 
