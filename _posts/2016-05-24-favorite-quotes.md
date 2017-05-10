@@ -5,6 +5,8 @@ description: "What follows is a list of my favorite quotes. It is a living docum
 keywords: "Favorite Quotes"
 ---
 
+What follows is a list of my favorite quotes. It is a living document.
+
 ## From the (original?) IDA Disassembler FAQ:
 > Q: How do I view the disassembly in C/VB etc?
 
