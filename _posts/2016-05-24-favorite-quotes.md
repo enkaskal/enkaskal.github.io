@@ -1,5 +1,9 @@
-# Favorite Quotes
-What follows is a list of my favorite quotes. It is a living document.
+---
+layout: post
+title: "Favorite Quotes"
+description: "What follows is a list of my favorite quotes. It is a living document."
+keywords: "Favorite Quotes"
+---
 
 ## From the (original?) IDA Disassembler FAQ:
 > Q: How do I view the disassembly in C/VB etc?
