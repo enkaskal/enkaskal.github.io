@@ -4,9 +4,9 @@ title: "Favorite Quotes"
 description: "What follows is a list of my favorite quotes. It is a living document."
 keywords: "Favorite Quotes"
 ---
-What follows is a list of my favorite quotes. 
+###What follows is a list of my favorite quotes. 
 
-It is a living document.
+**_It is a living document._**
 
 ## From the (original?) IDA Disassembler FAQ:
 > Q: How do I view the disassembly in C/VB etc?
