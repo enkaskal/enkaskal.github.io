@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/enkaskal
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cryp7.net
+  * I am enkaskal (https://keybase.io/enkaskal) on keybase.
+  * I have a public key ASCp8qC0LG7W2tFZUfuLRF19gIOYHgOs1dzgg5pg5XmQbwo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "012095e9d837d3295d8c150b2e6102b50b465e64d292ad4d62e5b40c991fe19118ec0a",
+            "host": "keybase.io",
+            "kid": "0120a9f2a0b42c6ed6dad15951fb8b445d7d8083981e03acd5dce0839a60e579906f0a",
+            "uid": "d97df9c42897c4ad8abc6c410e23bf19",
+            "username": "enkaskal"
+        },
+        "service": {
+            "hostname": "cryp7.net",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.23"
+    },
+    "ctime": 1496521378,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1496521235,
+        "hash": "070f13c4bec08315a047ec278be520f6a0f760bf23ece37539a8259e9a7d65d6142eba949dd2181f773a136f0db908f369c1676c4677f29921b478bd706634e2",
+        "seqno": 1140951
+    },
+    "prev": "bb0d0409104f76e61be5d8511dce0ea199f471eeefd015b30a470b318bc9a4e2",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqfKgtCxu1trRWVH7i0RdfYCDmB4DrNXc4IOaYOV5kG8Kp3BheWxvYWTFAvJ7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOTVlOWQ4MzdkMzI5NWQ4YzE1MGIyZTYxMDJiNTBiNDY1ZTY0ZDI5MmFkNGQ2MmU1YjQwYzk5MWZlMTkxMThlYzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYTlmMmEwYjQyYzZlZDZkYWQxNTk1MWZiOGI0NDVkN2Q4MDgzOTgxZTAzYWNkNWRjZTA4MzlhNjBlNTc5OTA2ZjBhIiwidWlkIjoiZDk3ZGY5YzQyODk3YzRhZDhhYmM2YzQxMGUyM2JmMTkiLCJ1c2VybmFtZSI6ImVua2Fza2FsIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJjcnlwNy5uZXQiLCJwcm90b2NvbCI6Imh0dHBzOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4yMyJ9LCJjdGltZSI6MTQ5NjUyMTM3OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDk2NTIxMjM1LCJoYXNoIjoiMDcwZjEzYzRiZWMwODMxNWEwNDdlYzI3OGJlNTIwZjZhMGY3NjBiZjIzZWNlMzc1MzlhODI1OWU5YTdkNjVkNjE0MmViYTk0OWRkMjE4MWY3NzNhMTM2ZjBkYjkwOGYzNjljMTY3NmM0Njc3ZjI5OTIxYjQ3OGJkNzA2NjM0ZTIiLCJzZXFubyI6MTE0MDk1MX0sInByZXYiOiJiYjBkMDQwOTEwNGY3NmU2MWJlNWQ4NTExZGNlMGVhMTk5ZjQ3MWVlZWZkMDE1YjMwYTQ3MGIzMThiYzlhNGUyIiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAUgRg2NhTVCs6uxJGl6D7t4hOk4bHk8RDVs3zODPcHyX5AInh7rxi+WH9sr3FfvnwMUm+ZYUNudw65LnbRWGBDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMtbh8vT+8xtGJfbqsNQaeTSf11Nn6Y2jZ8/TsjTKGT3o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/enkaskal
+
+==================================================================

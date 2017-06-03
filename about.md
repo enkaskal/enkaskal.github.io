@@ -7,5 +7,5 @@ permalink: /about/
   * Stefan Schwoegler
     * **Default Author**
     * email: root OR enkaskal _at_ cryp7.net
-    * [![Twitter]({{ site.url }}/assets/images/Twitter-Mark-32px.png)   @enkaskal]({{site.author.twitter}})
-    * [![GitHub]({{ site.url }}/assets/images/GitHub-Mark-32px.png)   @enkaskal]({{ site.author.github }})
+      * [![Twitter]({{ site.url }}/assets/images/Twitter-Mark-32px.png)   @enkaskal]({{site.author.twitter}})
+      * [![GitHub]({{ site.url }}/assets/images/GitHub-Mark-32px.png)   @enkaskal]({{ site.author.github }})
