@@ -54,3 +54,6 @@ Temporary Items
 *~
 *.sw?
 tags
+
+# ruby gems
+Gemfile.lock

@@ -1,0 +1,4 @@
+Contact: root@cryp7.net
+Contact: https://twitter.com/enkaskal
+Encryption: https://keybase.io/enkaskal
+Disclosure: pwn3d
