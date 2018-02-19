@@ -62,6 +62,8 @@ localityName_default = los angeles
 organizationalUnitName_default = information assurance directorate
 commonName_default = cryp7.net certificate authority
 emailAddress_default = root@cryp7.net
+# Extension copying option: use with caution.
+copy_extensions = copy # allow SAN CSR cert generation (review v3 extensions when signing with caution!!! especially with policy_anything!)
 default_md = sha512 # which message digest to use.
 [v3_ca]
 keyUsage = cRLSign, keyCertSign
