@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Stefan Schwoegler
 title: "HOWTO generate a certificate signing request (CSR)"
 description: "HOWTO generate a certificate signing request (CSR)"
 keywords: "howto openssl csr certificate signing request"

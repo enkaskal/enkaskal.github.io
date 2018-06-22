@@ -9,7 +9,6 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 
 #google_analytics: UA-XXXXX-XX
 repo: http://github.com/enkaskal/enkaskal.github.io
-#disqus_shortname: "hnbloggithub"
 twitter_username: "enkaskal"
 github_username: "enkaskal"
 comments: false
@@ -26,19 +25,6 @@ destination: ./_site
 sass:
   sass_dir: assets/scss
   style: compressed # expanded
-
-# Author settings
-author:
-  name     : "<a href='https://cryp7.net'>cryp7.net</a>"
-  job      : "Just this site ya know!"
-  bio      : "I've done some stuff...google me ;P"
-  thumb    : https://www.gravatar.com/avatar/daa3ff28e9dc091bf850c0bba8182197
-  email    : enkaskal@cryp7.net
-  url      : https://cryp7.net
-  github   : https://github.com/enkaskal
-  twitter  : https://twitter.com/enkaskal
-#  facebook : https://www.facebook.com/heiswayi.nrird
-#  linkedin : http://linkedin.com/in/nrird
 
 # social settings
 og_locale: "en_US"

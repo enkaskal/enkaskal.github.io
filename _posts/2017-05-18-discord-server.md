@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Stefan Schwoegler
 title: "cryp7.net discord server"
 description: "We created a discord server...let's chat :)"
 keywords: "discord server public chat"

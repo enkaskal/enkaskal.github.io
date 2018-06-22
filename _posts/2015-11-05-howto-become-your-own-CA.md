@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Stefan Schwoegler
 title: "HOWTO become your own certificate authority (CA)"
 description: "My notes (that I never remember) on creating a self-signed root CA"
 keywords: "howto openssl root ca self-signed certificate authority"

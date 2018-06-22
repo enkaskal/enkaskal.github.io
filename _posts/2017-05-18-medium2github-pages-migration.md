@@ -1,5 +1,6 @@
 ---
 layout: post
+author: Stefan Schwoegler
 title: "Medium to GitHub Pages Migration"
 description: "I copied all blog content to GitHub Pages"
 keywords: "medium github migration jekyll cloudflare"
