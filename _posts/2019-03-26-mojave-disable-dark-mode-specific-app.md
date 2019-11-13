@@ -33,7 +33,7 @@ osascript -e 'id of app "Google Chrome"'
 Now use the following command to disable the app `Bundle_Identifier` retrived from the previous step:
 
 ```
-defaults delete Bundle_Identifier NSRequiresAquaSystemAppearance
+defaults write Bundle_Identifier NSRequiresAquaSystemAppearance -bool yes
 ```
 
 Continuing the previous example:
