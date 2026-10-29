@@ -1,11 +1,11 @@
 ---
 layout: post
-author: Stefan Schwoegler
-title: "HOWTO become your own certificate authority (CA)"
-description: "My notes (that I never remember) on creating a self-signed root CA"
-keywords: "howto openssl root ca self-signed certificate authority"
+author: enkaskal
+title: HOWTO become your own certificate authority (CA)
+description: My notes (that I never remember) on creating a self-signed root CA
+tags: [howto,openssl,self-signed,certificate authority,CA,sysadmin]
 ---
-My notes (that I never remember) on creating a self-signed root certificate authority (CA).
+my notes (that I never remember) on creating a self-signed root certificate authority (CA).
 
 # Create the CA
 

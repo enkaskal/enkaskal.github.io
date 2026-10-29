@@ -1,9 +1,9 @@
 ---
 layout: post
-author: Stefan Schwoegler
-title: "Must See Movies Of All Time"
-description: "It’s intern season again, and found myself compiling a list of must see movies"
-keywords: "mustsee movies Star Wars StarWars Film"
+author: enkaskal
+title: Must See Movies Of All Time
+description: It’s intern season again, and found myself compiling a list of must see movies
+tags: [must,movies]
 ---
 # <center><span style="color:red">This is a living document.</span></center>
 

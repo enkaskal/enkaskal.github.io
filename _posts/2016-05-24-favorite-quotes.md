@@ -1,9 +1,9 @@
 ---
 layout: post
-author: Stefan Schwoegler
-title: "Favorite Quotes"
-description: "What follows is a list of my favorite quotes. It is a living document."
-keywords: "Favorite Quotes"
+author: enkaskal
+title: Favorite Quotes
+description: What follows is a list of my favorite quotes. It is a living document.
+tags: [favorite,quotes,funny]
 ---
 # <center><span style="color:red">This is a living document.</span></center>
 

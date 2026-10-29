@@ -1,9 +1,9 @@
 ---
 layout: post
-author: Stefan Schwoegler
-title: "AWS WAF Bypass"
-description: "Bypassing AWS WAF using a single `;`"
-keywords: "AWS WAF bypass"
+author: enkaskal
+title: AWS WAF Bypass
+description: Bypassing AWS WAF using a single `;`
+tags: [AWS,WAF,bypass,hack,hacking]
 ---
 
 # Introduction

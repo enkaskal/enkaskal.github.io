@@ -1,9 +1,9 @@
 ---
 layout: post
-author: Stefan Schwoegler
-title: "Disabling macOS Mojave dark mode for a specific app"
-description: "HOWTO disable macOS Mojave dark-mode for a specific app (e.g. Google Chrome)"
-keywords: "macOS mojave dark mode darkmode dark-mode specific app google chrome"
+author: enkaskal
+title: Disabling macOS Mojave dark mode for a specific app
+description: HOWTO disable macOS Mojave dark-mode for a specific app (e.g. Google Chrome)
+tags: [macOS,dark mode]
 ---
 
 # HOWTO - disable macOS (Mojave) dark mode for a specific/single app
