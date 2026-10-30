@@ -269,6 +269,8 @@ collections:
     output: true
     sort_by: order
 
+home_card_tags: true #use tags instead of categories on home page post cards
+
 defaults:
   - scope:
       path: "" # An empty string here means all files in the project
