@@ -57,4 +57,4 @@ defaults delete Bundle_Identifier NSRequiresAquaSystemAppearance
 # References
 
 All credit goes to the following post (this is just a tl;dr :)
- * https://www.tekrevue.com/tip/exclude-app-dark-mode-macos-mojave/
+ * <https://www.tekrevue.com/tip/exclude-app-dark-mode-macos-mojave/>

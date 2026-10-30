@@ -3,7 +3,7 @@ layout: post
 author: enkaskal
 title: Medium to GitHub Pages Migration
 description: I copied all blog content to GitHub Pages
-tags: [Medium,github,migration,jekyll,cloudflare]
+tags: [blog,migration,jekyll,cloudflare]
 ---
 My apologies for the "blackout." I put all posts on hold while I setup CloudFlare DNS & GitHub Pages+Jekyll for my blog. JIC Twitter™ decides to kill my content ;P
 

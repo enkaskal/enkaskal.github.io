@@ -3,7 +3,8 @@ layout: post
 author: enkaskal
 title: AWS WAF Bypass
 description: Bypassing AWS WAF using a single `;`
-tags: [AWS,WAF,bypass,hack,hacking]
+tags: [AWS,WAF,hacking]
+pin: true
 ---
 
 # Introduction

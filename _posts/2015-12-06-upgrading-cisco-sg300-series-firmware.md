@@ -3,7 +3,7 @@ layout: post
 author: enkaskal
 title: Upgrading firmware on Cisco Small Business SG300 Series Managed Switch
 description: Because I’ll never remember how I did this
-tags: [cisco,smb,small-business,infrastructure,firmware upgrade,networking]
+tags: [cisco,infrastructure,firmware,networking]
 ---
 Because I’ll never remember how I did this!
 
@@ -29,7 +29,7 @@ Since you’re running a server make sure your firewall isn’t blocking you!
 
 # Download
 
-https://software.cisco.com/download/navigator.html?mdfid=283009439&flowid=18905
+<https://software.cisco.com/download/navigator.html?mdfid=283009439&flowid=18905>
 
 Note: I’ve found all the port (e.g. sg300–10 vs sg300–28p) and power (POE) variations to be the same firmware. For example, sg300–10 is the same as sg300–28p. YMMV
 

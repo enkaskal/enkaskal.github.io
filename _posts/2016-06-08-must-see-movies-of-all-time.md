@@ -3,7 +3,7 @@ layout: post
 author: enkaskal
 title: Must See Movies Of All Time
 description: It’s intern season again, and found myself compiling a list of must see movies
-tags: [must,movies]
+tags: [favorite,movies]
 ---
 # <center><span style="color:red">This is a living document.</span></center>
 
@@ -19,7 +19,7 @@ Here’s what we came up as a first draft:
  * pulp fiction/reservoir dogs
  * LOTR/hobbit trilogies
  * indiana jones trilogy
- * star wars (machete order: http://www.nomachetejuggling.com/2011/11/11/the-star-wars-saga-suggested-viewing-order/)
+ * star wars (machete order: <http://www.nomachetejuggling.com/2011/11/11/the-star-wars-saga-suggested-viewing-order/>)
  * all star trek movies
  * ghostbusters
  * caddyshack

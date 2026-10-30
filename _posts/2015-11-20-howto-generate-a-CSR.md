@@ -2,7 +2,7 @@
 layout: post
 author: enkaskal
 title: HOWTO generate a certificate signing request (CSR)
-tags: [howto,openssl,CSR,certificate signing request,sysadmin]
+tags: [howto,openssl,CSR,sysadmin]
 ---
 # <center><span style="color:red">subjectAltName must always be used (RFC 2818 4.2.1.7, 1. paragraph)</span></center>
 
@@ -118,7 +118,7 @@ openssl pkcs12 -export -in my.crt -inkey my.key -out my.p12
 
 # See Also
 
-* [HOWTO become your own CA](https://cryp7.net/2015/howto-become-your-own-CA/)
+* [HOWTO become your own CA]({% post_url 2015-11-05-howto-become-your-own-CA %})
 
 # References
 

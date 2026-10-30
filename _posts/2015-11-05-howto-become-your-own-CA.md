@@ -162,7 +162,7 @@ openssl dhparam -out private/dh-params.pem 2048
 
 # See Also
 
-* [HOWTO generate a CSR](https://cryp7.net/2015/howto-generate-a-CSR/)
+* [HOWTO generate a CSR]({% post_url 2015-11-20-howto-generate-a-CSR %})
 
 # References
 
