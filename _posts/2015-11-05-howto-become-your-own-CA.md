@@ -3,7 +3,8 @@ layout: post
 author: enkaskal
 title: HOWTO become your own certificate authority (CA)
 description: My notes (that I never remember) on creating a self-signed root CA
-tags: [howto,openssl,self-signed,certificate authority,CA,sysadmin]
+tags: [howto,openssl,CA,sysadmin]
+pin: true
 ---
 my notes (that I never remember) on creating a self-signed root certificate authority (CA).
 

@@ -36,13 +36,15 @@ github_username: enkaskal
 
 # Build settings
 #theme: minima
-remote_theme: cotes2020/jekyll-theme-chirpy@v7.6.0
+#theme: jekyll-theme-chirpy
+#remote_theme: cotes2020/jekyll-theme-chirpy@v7.6.0
+remote_theme: enkaskal/jekyll-theme-chirpy@cryp7isolate
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-gist
+#  - jekyll-gist
   - jekyll-archives
   - jekyll-paginate
   - jekyll-include-cache
