@@ -192,12 +192,18 @@ cdn: "https://cryp7-static.s3.us-west-2.amazonaws.com"
 #avatar: "/commons/avatar.jpg"
 avatar: "/images/favicons/web-app-manifest-192x192.png"
 
+# the location of the favicon directory, support local or CORS resources
+favicons: "/images/favicons"
+
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
 social_preview_image: # string, local or CORS resources
 
 # boolean type, the global switch for TOC in posts.
 toc: true
+
+#add tags to home page post cards
+home_cards_add_tags: true
 
 actions:
   # Display "Edit this post" action on each post page to encourage contributions.
@@ -269,8 +275,6 @@ collections:
   tabs:
     output: true
     sort_by: order
-
-home_card_tags: true #use tags instead of categories on home page post cards
 
 defaults:
   - scope:
