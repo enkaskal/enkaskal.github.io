@@ -11,8 +11,8 @@ source "https://rubygems.org"
 gem "jekyll"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 #gem "minima", "~> 2.5"
-#gem "jekyll-theme-chirpy", git: "https://github.com/cotes2020/jekyll-theme-chirpy", tag: "v7.6.0"
-#gem "jekyll-theme-chirpy", git: "https://github.com/enkaskal/jekyll-theme-chirpy", branch: "cryp7isolate"
+#gem "jekyll-theme-chirpy", "7.6.0.pre.cryp7isolate"
+gem "jekyll-theme-chirpy", git: "https://github.com/enkaskal/jekyll-theme-chirpy", branch: "cryp7isolate", submodules: true
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
@@ -29,6 +29,8 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-include-cache"
 end
+
+gem "html-proofer", "~> 5.0", group: :test
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
