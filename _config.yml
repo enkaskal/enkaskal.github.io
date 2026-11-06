@@ -83,14 +83,14 @@ jekyll_compose:
       author: enkaskal
       description:
       image:
-      tags:
+      tags: []
+      published: false
+      sitemap: false
     posts:
       author: enkaskal
       description:
       image:
-      tags:
-      published: false
-      sitemap: false
+      tags: []
 
 ##################################################################################################################
 # theme specific config

@@ -2,7 +2,7 @@
 layout: post
 author: enkaskal
 title: HOWTO generate a certificate signing request (CSR)
-tags: [howto,openssl,CSR,sysadmin]
+tags: [HOWTO,openssl,CSR,sysadmin]
 ---
 # <center><span style="color:red">subjectAltName must always be used (RFC 2818 4.2.1.7, 1. paragraph)</span></center>
 
