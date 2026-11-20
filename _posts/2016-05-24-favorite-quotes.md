@@ -15,3 +15,8 @@ tags: [favorite,quotes,funny]
 > A: You must create a file called sissy.ini and add the line “LANG C=Yes”.
 >  
 > Jokes aside, this is not something IDA can do. The output is ASM.
+
+## From Destiny 2
+"Life ain't about drawing out the living part. It's about making what you do while you're alive matter." - **Cayde-6, Destiny 2: The Final Shape, 2024**
+
+"Fear is a knife. We can use it to hurt others...or ourselves. But we also have the choice to sheathe it." - **Eris Morn**
